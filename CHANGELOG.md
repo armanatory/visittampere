@@ -1,6 +1,20 @@
 # Changelog
 
 
+## 2026-05-05T06:06:16Z — Prototyping (`prototyping`)
+
+**Files changed**
+- added: `tasks/4-deployment-hardening.md`, `tasks/blocker-data-accuracy.md`
+- modified: `KANBAN.md`, `data/attractions.json`, `data/restaurants.json`
+
+**What each stage did**
+- `step0` (researcher) — The full research note with Known/Assumed/Unknown sections is at `/opt/ventures/studio/ledger/projects/visittampere/workflows/prototyping/step0-summary.md`.
+- `step1` (qa-observer) — I've documented the findings in `/opt/ventures/studio/ledger/projects/visittampere/workflows/prototyping/step1-summary.md` and created a blocker task with remediation steps. The work is blocked until the restaurant and coordinate data are…
+- `step2` (product-explorer) — Ready for product-owner prioritization in Step 3.
+- `step3` (builder) — All work is committed to the repository and ready for the steward (Step 4) to deploy.
+- `step4` (steward) — **Step 4 is ready for the runner to publish to the repo.**
+
+
 ## 2026-05-05T05:53:59Z — Prototyping (`prototyping`)
 
 - Status: **ok**

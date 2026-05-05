@@ -19,15 +19,32 @@
 - [5-curator-notes](tasks/5-curator-notes.md) — Theme 3: Curation Legibility - Editorial Notes
 - [6-mobile-validation](tasks/6-mobile-validation.md) — Theme 4: Mobile-First Legibility - UX Fix
 
-## Blocked
+## Live / Deployed
 
-(No blocked items)
+- **Site:** https://visittampere.hiarman.com/ ✅ **LIVE**
+- [4-deployment-hardening](tasks/4-deployment-hardening.md) — Follow-up: Protect deployment config against CI redeployment and admin-panel overwrites
 
 ---
 
 ## Summary
 
-**Cycle 2 Status:** Complete — Theme Validation
+**Prototyping Status:** Step 4 Complete — Site Live
+
+**Step 3 (Data Curation) Complete:**
+- Fixed founder's primary concern: Näsinneula location corrected from 4.7 km away to accurate coordinates
+- Replaced 6 fabricated restaurants with 7 verified sushi venues from research
+- Added proper geocoding, addresses, and navigation links to all 17 POIs
+- Data validated and ready for user testing
+
+**Step 4 (Deployment) Complete:**
+- Site serving live at visittampere.hiarman.com with corrected data
+- Using Caddy static file server (no new services needed)
+- Mobile-responsive design tested and working
+- Ready for user feedback and next iteration
+
+### Prior Cycle Work
+
+**Cycle 2: Theme Validation**
 
 Prototyped and validated 2 of 5 themes from Cycle 1 findings:
 
