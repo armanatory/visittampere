@@ -1,0 +1,122 @@
+[
+  {
+    "id": "a001",
+    "name": "Moomin Museum",
+    "lat": 61.5042,
+    "lng": 23.7512,
+    "address": "Yliopistonkatu 55, Tampere",
+    "url": "https://www.moomin.com/en/moomin-museum",
+    "hours": "Daily 10:00-18:00 (vary by season)",
+    "admission": "paid",
+    "description": "Interactive museum dedicated to the beloved Moomin characters and their creator Tove Jansson",
+    "curator_note": "Magical for families; hands-on exhibits capture the enchanting Moomin world."
+  },
+  {
+    "id": "a002",
+    "name": "Tampere Cathedral",
+    "lat": 61.4970,
+    "lng": 23.7686,
+    "address": "Tuomiokirkontie 3, Tampere",
+    "url": "https://tampereencathedral.fi",
+    "hours": "Mon-Fri 10:00-16:00, Sat 10:00-14:00, Sun 12:00-15:00",
+    "admission": "free",
+    "description": "Art Nouveau style cathedral with stunning granite architecture and frescoes",
+    "curator_note": "Essential landmark with dramatic frescoes; 5-min walk from market square."
+  },
+  {
+    "id": "a003",
+    "name": "Särkänniemi",
+    "lat": 61.5108,
+    "lng": 23.8314,
+    "address": "Särkänniementie 1, Tampere",
+    "url": "https://www.sarkanniemi.fi",
+    "hours": "Daily 10:00-20:00 (vary by season)",
+    "admission": "paid",
+    "description": "Amusement park with aquarium, planetarium, and observation tower with panoramic views",
+    "curator_note": "All-day destination with aquarium, rides, and restaurant; north of downtown."
+  },
+  {
+    "id": "a004",
+    "name": "Pyynikki Park & Tower",
+    "lat": 61.4748,
+    "lng": 23.7592,
+    "address": "Pyynikintie 10, Tampere",
+    "url": "https://www.tampere.fi",
+    "hours": "Open 24/7",
+    "admission": "free",
+    "description": "Scenic park with historic wooden observation tower offering panoramic city views",
+    "curator_note": "Iconic tower with lake views; scenic walk from downtown, best at sunset."
+  },
+  {
+    "id": "a005",
+    "name": "Market Square (Keskustori)",
+    "lat": 61.5000,
+    "lng": 23.7672,
+    "address": "Keskustori 1, Tampere",
+    "url": "https://www.tampere.fi",
+    "hours": "Open daily, vendor hours vary",
+    "admission": "free",
+    "description": "Lively central marketplace with local vendors, cafes, and restaurants",
+    "curator_note": "Heart of downtown; explore local crafts, food stalls, and street performances."
+  },
+  {
+    "id": "a006",
+    "name": "Vapriikki Museum",
+    "lat": 61.5023,
+    "lng": 23.7549,
+    "address": "Alaverstaankatu 5, Tampere",
+    "url": "https://www.vapriikki.fi",
+    "hours": "Tue-Sun 10:00-17:00, Closed Monday",
+    "admission": "paid",
+    "description": "Cultural center and museum complex featuring various exhibitions and art spaces",
+    "curator_note": "Multi-building complex with rotating exhibitions; near railway station."
+  },
+  {
+    "id": "a007",
+    "name": "Näsinneula",
+    "lat": 61.5108,
+    "lng": 23.8314,
+    "address": "Särkänniementie 1, Tampere",
+    "url": "https://www.sarkanniemi.fi/nasinneula",
+    "hours": "Daily 10:00-20:00 (vary by season)",
+    "admission": "paid",
+    "description": "Tall observation tower at Särkänniemi with excellent city and lake views",
+    "curator_note": "Tallest structure in Tampere; stunning 360-degree views of city and lakes."
+  },
+  {
+    "id": "a008",
+    "name": "Amurin Museum",
+    "lat": 61.4883,
+    "lng": 23.7421,
+    "address": "Amurintie 7, Tampere",
+    "url": "https://www.tampere.fi/amurin-museo",
+    "hours": "Tue-Sun 10:00-16:00, Closed Monday",
+    "admission": "paid",
+    "description": "Open-air museum showcasing 19th-century working-class living and craft traditions",
+    "curator_note": "Step back in time with restored homes and traditional crafts demonstrations."
+  },
+  {
+    "id": "a009",
+    "name": "Lenin Museum",
+    "lat": 61.4993,
+    "lng": 23.7699,
+    "address": "Hämeenkatu 28, Tampere",
+    "url": "https://www.leninmuseum.fi",
+    "hours": "Tue-Sun 11:00-17:00, Closed Monday",
+    "admission": "paid",
+    "description": "Historic meeting place of Lenin and Stalin with museum exhibits on Russian revolutionary history",
+    "curator_note": "Unique historical site where Lenin and Stalin secretly met in 1905."
+  },
+  {
+    "id": "a010",
+    "name": "Nuolahalli Art Museum",
+    "lat": 61.4950,
+    "lng": 23.7615,
+    "address": "Puutarhakatu 34, Tampere",
+    "url": "https://www.tampere.fi/nuolahalli",
+    "hours": "Wed-Sun 11:00-18:00, Closed Mon-Tue",
+    "admission": "paid",
+    "description": "Contemporary art museum featuring rotating exhibitions and local artists",
+    "curator_note": "Contemporary art gallery showcasing emerging Finnish and international artists."
+  }
+]
